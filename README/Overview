@@ -1,0 +1,25 @@
+# Student-SpendTrack-System
+## Overview Project
+Many students run out of balance before the end of the week because they don’t track where their money goes. The problem is they don’t have simple way to track big or small expenses. Our proposed system solution is the Student SpendTrack where students can quickly log what they buy and see how many money they have left.
+
+##Data Structure and Algorithm used.
+Data structure: [Array, Linked List, and Hash Table]
+Algorithms: [Search and sort]
+
+##Features
+Data Structure:
+Array - Set up weekly budget
+Linked List - Add an expenses, view all expenses
+Hash Table - Set up weekly budget, check remaining budget
+Algorithm:
+Search - Search for an expenses
+Sort/Bubble sort - View biggest expenses first
+
+## Instructions
+First choose the 1 to set a budget.
+Then choose 2 to add an expenses.
+Choose 3 to view your all expenses, any expenses that exceeeded a budget will have its amount displayed.
+Choose 4 to see expenses sorted from highest to lowest amount.
+Choose 5 to check the remaining budget.
+Choose 6 to search by keyword by category.
+the last one is 7 to exit.
